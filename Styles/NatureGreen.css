@@ -6,7 +6,7 @@
 }
 
 body{
-    background:url(../Images/background.png)repeat;
+    background:url(/Images/background.png)repeat;
     font-size:12px;
 }
 
