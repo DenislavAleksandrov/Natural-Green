@@ -84,7 +84,7 @@ header #bird img{
 }
 
 #top-navigation {   
-    background:#159831 url(../Images/top-navigation.png)repeat-x;
+    background:#159831 url(/Images/top-navigation.png)repeat-x;
     border-radius:3px;
     margin-left:20px;
 }
@@ -126,7 +126,7 @@ header #header-bottom-navigation a{
  }
 
 header #header-bottom-navigation #special-offers:before{
-    content:url(../Nature-Green/Images/img-special-offers.png);
+    content:url(/Images/img-special-offers.png);
     padding-right:5px;
  }
 
@@ -160,7 +160,7 @@ button{
  }   
 
 #search button{
-    background:url(../Images/search-button.png)repeat-x;
+    background:url(/Images/search-button.png)repeat-x;
     border:1px solid #0C932F;
     border-radius:3px;
     color:#ffffff;
@@ -184,7 +184,7 @@ button{
 
 #main section{     
     background:white;
-    background:url(../Images/section-background.png)repeat;
+    background:url(/Images/section-background.png)repeat;
     border-bottom-left-radius:5px;
     border-right:1px solid white;
     border-top-left-radius:5px;
@@ -194,7 +194,7 @@ button{
 }
 
 #main section header { 
-    background:url(../Images/world-map.png)no-repeat right;
+    background:url(/Images/world-map.png)no-repeat right;
     background-size:30%;
     border-bottom:1px dotted #999999;
     margin-bottom: 20px; 
@@ -252,7 +252,7 @@ button{
 #main section button {
     font-weight: bold;
     font-size: 0.73em;
-    background: url(../Images/button.png)repeat-x;
+    background: url(/Images/button.png)repeat-x;
     border: none;
     border: 2px solid #0C932F;
     border-bottom: none;
@@ -294,7 +294,7 @@ button{
 }
 
 #main aside nav ul li:before{
-    content:url(../Images/bullet.png);
+    content:url(/Images/bullet.png);
     padding:0 5px 0 20px; 
 }
 
@@ -360,7 +360,7 @@ button{
 }
 
 #main aside button{
-    background:url(../Images/search-button.png)repeat-x;
+    background:url(/Images/search-button.png)repeat-x;
     border:none;
     border:1px solid #0C932F; 
     border-radius:4px;
@@ -475,7 +475,7 @@ footer p a{
     }
     
     #main section header {
-        background: url(../Images/world-map.png) no-repeat scroll right center / 40%;
+        background: url(/Images/world-map.png) no-repeat scroll right center / 40%;
     }
 
     #main aside {
@@ -534,7 +534,7 @@ footer p a{
     }
 
     #main section header {
-        background: url(../Images/world-map.png) no-repeat scroll right center / 45%;
+        background: url(/Images/world-map.png) no-repeat scroll right center / 45%;
     }
     
     #main section article {
